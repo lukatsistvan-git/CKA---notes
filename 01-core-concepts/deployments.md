@@ -118,11 +118,11 @@ Benefits:
 
 ## Key Takeaways
 
-Deployments manage ReplicaSets
-ReplicaSets manage Pods
-Deployments enable rolling updates
-Deployment revisions allow rollbacks
-Rolling updates provide zero downtime deployments
+- Deployments manage ReplicaSets
+- ReplicaSets manage Pods
+- Deployments enable rolling updates
+- Deployment revisions allow rollbacks
+- Rolling updates provide zero downtime deployments
 
 ---
 
